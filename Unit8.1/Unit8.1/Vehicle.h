@@ -12,9 +12,11 @@ private:
 	int year = 0;
 
 public:
-	Vehicle() {};
-	void setManu(string s) {};
-	void setYear(int i) {};
+	Vehicle();
+	string getManu();
+	void setManu(string s);
+	int getYear();
+	void setYear (int i);
 	string displayInfo();
 };
 #endif

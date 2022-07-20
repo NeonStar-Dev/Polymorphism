@@ -9,9 +9,9 @@ private:
 	int doorNO = 0;
 
 public:
-	Car() {};
-	void setDoors(int) {};
-
-	string DisplayInfo(){};
+	Car();
+	int getDoors();
+	void setDoors(int);
+	string displayInfo();
 };
 #endif

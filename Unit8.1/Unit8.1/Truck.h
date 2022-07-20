@@ -9,9 +9,10 @@ private:
 	int towCap = 0;
 
 public:
-	Truck() {};
-	void setCap(int) {};
-	string displayInfo() {};
+	Truck();
+	int getCap();
+	void setCap(int);
+	string displayInfo();
 
 };
 
