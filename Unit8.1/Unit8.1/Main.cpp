@@ -1,3 +1,7 @@
+// Brett
+// CIS 1202 - 101
+// July 20, 2022
+
 #include "Vehicle.h"
 #include "Car.h"
 #include "Truck.h"

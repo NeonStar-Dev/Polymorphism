@@ -1,3 +1,7 @@
+// Brett
+// CIS 1202 - 101
+// July 20, 2022
+
 #ifndef VEHICLE_H
 #define VEHICLE_H
 
